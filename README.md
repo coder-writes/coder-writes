@@ -12,7 +12,9 @@
 </div>
 
 ---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stutimi" alt="stutimi" /></a> </p>
 
+---
 ### 🛠️ Tech Stack
 <div align="center">
   <!-- Frontend Technologies -->
@@ -42,7 +44,6 @@
 
   <!-- Cloud & Design -->
   <b>Cloud & Design:</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
@@ -68,7 +69,13 @@
 
 ---
 
-<a>
-  <img width="800px" align = "center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />  
+<a align = "center" >
+  <img width="800px"  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />  
 </a>
+
+---
+### Leetcode Stat's
+<div align = "center" >
+<img  height="400px" src="https://leetcard.jacoblin.cool/risshi-codes?theme=dark&font=Noto%20Sans%20Malayalam&ext=contest" />
+</div>
 
