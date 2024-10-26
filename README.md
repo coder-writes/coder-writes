@@ -62,10 +62,11 @@
 ---
 
 ### Github Stat's
-  <img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=coder-writes&theme=dark" alt="GitHub Streak" width ="400px" height = "200px" />
+<div align = "center">
+<a align = "center" width ="400px" href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=coder-writes&theme=dark" alt="GitHub Streak"  />
 </a>
+</div>
 
 ---
 
