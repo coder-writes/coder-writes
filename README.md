@@ -12,7 +12,7 @@
 </div>
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stutimi" alt="stutimi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-writes" alt="stutimi" /></a> </p>
 
 ---
 ### 🛠️ Tech Stack
