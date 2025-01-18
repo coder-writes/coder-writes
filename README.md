@@ -81,12 +81,6 @@
 </a>
 
 ---
-### Leetcode Stat's
-<div align = "center" >
-<img  height="400px" src="https://leetcard.jacoblin.cool/risshi-codes?theme=dark&font=Noto%20Sans%20Malayalam&ext=contest" />
-</div>
-
----
 
 ### Badges and Awards
 
